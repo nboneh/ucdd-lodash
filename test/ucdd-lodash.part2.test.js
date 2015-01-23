@@ -1,4 +1,4 @@
-sh = require('lodash')
+var theirLodash = require('lodash')
 var ourLodash = require('../lib/ucdd-lodash.part2.js')
 
 var debug = require('debug')('test')
